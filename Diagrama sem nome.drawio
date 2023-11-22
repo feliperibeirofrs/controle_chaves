@@ -1,84 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-10-11T12:34:54.547Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="_Pb0oehqMt26q1uVpJiV" version="22.0.4" type="github">
-  <diagram name="Página-1" id="UM66jc4FIKnI34JdV3uy">
-    <mxGraphModel dx="3300" dy="432" grid="1" gridSize="7" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2023-11-22T10:52:08.958Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="22.1.3" etag="t-cogzyp5oa_h01Ai1OR" type="github">
+  <diagram name="Página-1" id="2BCLL4leVJq9lkeNX_P2">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LmTqs5-Lrdkgo4N1SuMT-26" value="autorizar posse" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2324" y="105" width="112" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="LmTqs5-Lrdkgo4N1SuMT-27" value="cordenador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2450" y="105" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LmTqs5-Lrdkgo4N1SuMT-31" value="professor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2450" y="231" width="30" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="LmTqs5-Lrdkgo4N1SuMT-33" value="usuario&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2450" y="357" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LmTqs5-Lrdkgo4N1SuMT-34" value="vigilante" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2107" y="329" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LmTqs5-Lrdkgo4N1SuMT-36" value="cadastrar posse da chave&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2303" y="357" width="84" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="LmTqs5-Lrdkgo4N1SuMT-38" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="LmTqs5-Lrdkgo4N1SuMT-31">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-2436" y="189" as="sourcePoint" />
-            <mxPoint x="-2045" y="266" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LmTqs5-Lrdkgo4N1SuMT-39" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-2436" y="308" as="sourcePoint" />
-            <mxPoint x="-2435" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LmTqs5-Lrdkgo4N1SuMT-40" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LmTqs5-Lrdkgo4N1SuMT-33" target="LmTqs5-Lrdkgo4N1SuMT-36">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-2205" y="266" as="sourcePoint" />
-            <mxPoint x="-2317" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LmTqs5-Lrdkgo4N1SuMT-41" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.233;exitY=0.817;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="LmTqs5-Lrdkgo4N1SuMT-34" target="LmTqs5-Lrdkgo4N1SuMT-36">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-2184" y="298" as="sourcePoint" />
-            <mxPoint x="-2067" y="294" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LmTqs5-Lrdkgo4N1SuMT-42" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="LmTqs5-Lrdkgo4N1SuMT-27" target="LmTqs5-Lrdkgo4N1SuMT-26">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-2205" y="266" as="sourcePoint" />
-            <mxPoint x="-2045" y="266" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LmTqs5-Lrdkgo4N1SuMT-43" value="Retirar posse" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2303" y="280" width="91" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="LmTqs5-Lrdkgo4N1SuMT-44" value="pesquisar posse" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2310" y="189" width="98" height="63" as="geometry" />
-        </mxCell>
-        <mxCell id="LmTqs5-Lrdkgo4N1SuMT-45" value="Transferir posse" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2310" y="434" width="91" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="LmTqs5-Lrdkgo4N1SuMT-46" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0.026;entryY=0.329;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LmTqs5-Lrdkgo4N1SuMT-33" target="LmTqs5-Lrdkgo4N1SuMT-45">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-2359" y="427" as="sourcePoint" />
-            <mxPoint x="-2045" y="441" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LmTqs5-Lrdkgo4N1SuMT-47" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="LmTqs5-Lrdkgo4N1SuMT-33" target="LmTqs5-Lrdkgo4N1SuMT-44">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-2205" y="322" as="sourcePoint" />
-            <mxPoint x="-2045" y="322" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LmTqs5-Lrdkgo4N1SuMT-49" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0.077;entryY=0.816;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="LmTqs5-Lrdkgo4N1SuMT-43">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-2415" y="378" as="sourcePoint" />
-            <mxPoint x="-2241" y="371" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
